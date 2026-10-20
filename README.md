@@ -34,3 +34,5 @@ POST /api/courses
 POST /api/enroll
 POST /api/grades
 GET /api/students/<student_id>/gpa
+
+Jenkins SCM polling verification.
