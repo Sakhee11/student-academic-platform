@@ -36,3 +36,5 @@ POST /api/grades
 GET /api/students/<student_id>/gpa
 
 Jenkins SCM polling verification.
+
+SCM polling test completed.
